@@ -53,6 +53,7 @@ LANGUAGES = {
     "lv": "latvian",
     "bn": "bengali",
     "sr": "serbian",
+    "sr_Cyrl_RS": "srpski",
     "az": "azerbaijani",
     "sl": "slovenian",
     "kn": "kannada",
